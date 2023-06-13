@@ -2,6 +2,7 @@
 title: jQuery 基础
 date: 2023-06-13 14:56:26
 tags:
+cover: https://wh22wxy-1314518111.cos.ap-chongqing.myqcloud.com/202306132306199.jpg
 ---
 **[jQuery插件免费网站1](http://www.htmleaf.com/)**
 

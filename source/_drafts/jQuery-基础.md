@@ -1,6 +1,7 @@
 ---
 title: jQuery 基础
 tags:
+cover: https://wh22wxy-1314518111.cos.ap-chongqing.myqcloud.com/202306132305049.jpg
 ---
 
 **[jQuery插件免费网站1](http://www.htmleaf.com/)**
