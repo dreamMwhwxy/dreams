@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/dreamMwhwxy/dreamMwhwxy.github.io.git
+  repo: https://github.com/dreamMwhwxy/dreamMwhwxy.github.io.git
   branch: main
